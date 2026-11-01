@@ -22,3 +22,4 @@ public class MainTest {
         System.setOut(System.out);
     }
 }
+

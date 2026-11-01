@@ -23,3 +23,4 @@ steps:
   inputs:
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     testRunTitle: 'JUnit Test Results'
+
